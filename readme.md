@@ -49,7 +49,3 @@ This program reads a `.txt` file, analyzes word frequencies, and generates a bub
 ### **Notes**
 - Ensure the `.txt` file is cleaned and formatted (e.g., remove non-text data).
 - If you need additional libraries, activate the virtual environment before installing them.
-
----
-
-This README will help you or others reproduce the setup later! Let me know if you want to adjust it further.
